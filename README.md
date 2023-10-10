@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @NicolePonto
-- 👀 I’m interested in psychology, technology and philosophy
 - 🌱 I’m currently finishing a computer science certificate and a degree in psychology
 - 📫 nicolnicky25@gmail.com
 
