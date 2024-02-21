@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NicolePonto
-- 🌱 I’m currently finishing a computer science certificate and a degree in psychology
+- 🌱 I’m currently finishing a computer science certificate and two bachelors, one in psychology and one in software development
 - 📫 nicolnicky25@gmail.com
 
 <!---
